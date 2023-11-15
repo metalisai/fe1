@@ -22,7 +22,7 @@ export default function Home() {
           <div className={styles.summary}>
             <div className={`${styles.sumitem} ${styles.textReaction}`}>
               <span className={styles.citem}><Image
-                src="/icon-reaction.svg"
+                src="./icon-reaction.svg"
                 alt="Reaction Icon"
                 className={styles.texticon}
                 width={20}
@@ -34,7 +34,7 @@ export default function Home() {
             </div>
             <div className={`${styles.sumitem} ${styles.textMemory}`}>
               <span className={styles.citem}><Image
-                src="/icon-memory.svg"
+                src="./icon-memory.svg"
                 alt="Reaction Icon"
                 className={styles.texticon}
                 width={20}
@@ -46,7 +46,7 @@ export default function Home() {
             </div>
             <div className={`${styles.sumitem} ${styles.textVerbal}`}>
               <span className={styles.citem}><Image
-                src="/icon-verbal.svg"
+                src="./icon-verbal.svg"
                 alt="Reaction Icon"
                 className={styles.texticon}
                 width={20}
@@ -58,7 +58,7 @@ export default function Home() {
             </div>
             <div className={`${styles.sumitem} ${styles.textVisual}`}>
               <span className={styles.citem}><Image
-                src="/icon-visual.svg"
+                src="./icon-visual.svg"
                 alt="Reaction Icon"
                 className={styles.texticon}
                 width={20}
